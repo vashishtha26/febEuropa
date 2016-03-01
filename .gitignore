@@ -1,0 +1,14 @@
+*.class
+*.classpath
+*.project
+*.jar
+*.war
+*.ear
+
+.DS_STORE
+
+/bin/
+/target/
+/.settings/
+/build/
+_MACOSX
